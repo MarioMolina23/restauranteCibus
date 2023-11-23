@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>764230122638-6fa944u2imuh0dqsl79cu6feu2h0vcmc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.764230122638-6fa944u2imuh0dqsl79cu6feu2h0vcmc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>764230122638-lt082ahur9r4n2riufp5lfjesvj98rcm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWQb3uY1yG6gqKOcjoK6RXOhL_SL3CJzA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>764230122638</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cibus.cibus</string>
+	<key>PROJECT_ID</key>
+	<string>restaurantecibus-73467</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurantecibus-73467.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:764230122638:ios:7e1a9d9f7e8cf7aca05ddf</string>
+</dict>
+</plist>
