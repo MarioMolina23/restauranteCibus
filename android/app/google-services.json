@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "764230122638",
+    "project_id": "restaurantecibus-73467",
+    "storage_bucket": "restaurantecibus-73467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764230122638:android:0792a6815f4fb4a0a05ddf",
+        "android_client_info": {
+          "package_name": "com.cibus.cibus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764230122638-lt082ahur9r4n2riufp5lfjesvj98rcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cibus.cibus",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "764230122638-sud12ac09c5buv2q5408fnp6qv4gmvu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWA242tKsaCSxX-USiaeDIRGkBbUvG6MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764230122638-sud12ac09c5buv2q5408fnp6qv4gmvu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764230122638-6fa944u2imuh0dqsl79cu6feu2h0vcmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cibus.cibus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
